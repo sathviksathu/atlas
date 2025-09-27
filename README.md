@@ -128,4 +128,4 @@ Your CSV file should contain transaction data with these columns:
 
 ## Sample screenshot of working app
 
-[Fraud monitoring app on transactions_mini.csv](/resources/fraud_monitor_app.png)
+![Fraud monitoring app on transactions_mini.csv](/resources/fraud_monitor_app.png)
