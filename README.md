@@ -2,6 +2,8 @@
 
 Application for detecting fraudulent transactions in CSV files using configurable rules.
 
+![Fraud monitoring app on transactions_mini.csv](/resources/fraud_monitor_app.png)
+
 
 ## Fraud Detection Rules
 
@@ -125,7 +127,3 @@ Your CSV file should contain transaction data with these columns:
 - **main.py**: FastAPI application with web interface and API endpoints
 - **fraud_transaction_rules.py**: Base rule class and concrete rule implementations
 - **fraud_transaction_monitor_service.py**: Service for managing and applying fraud detection rules
-
-## Sample screenshot of working app
-
-![Fraud monitoring app on transactions_mini.csv](/resources/fraud_monitor_app.png)
